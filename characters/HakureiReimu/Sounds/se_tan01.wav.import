@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/se_tan01.wav-2c900ca6fb0a21d17142d8e225fa2538.sample"
+path="res://.import/se_tan01.wav-29d2442818ab04fd44c3ae05af557936.sample"
 
 [deps]
 
-source_file="res://HakureiReimu/characters/HongMeiling/Sounds/se_tan01.wav"
-dest_files=[ "res://.import/se_tan01.wav-2c900ca6fb0a21d17142d8e225fa2538.sample" ]
+source_file="res://HakureiReimu/characters/HakureiReimu/Sounds/se_tan01.wav"
+dest_files=[ "res://.import/se_tan01.wav-29d2442818ab04fd44c3ae05af557936.sample" ]
 
 [params]
 

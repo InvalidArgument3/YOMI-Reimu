@@ -1,4 +1,4 @@
 extends "res://ui/CSS/CharacterSelect.gd"
 
 func _ready():
-	addCustomChar("HongMeiling", "res://HongMeiling/characters/HongMeiling/HongMeiling.tscn")
+	addCustomChar("HakureiReimu", "res://HakureiReimu/characters/HakureiReimu/HakureiReimu.tscn")

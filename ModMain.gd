@@ -1,4 +1,4 @@
 extends Node
 
 func _init(modLoader = ModLoader):
-	modLoader.installScriptExtension("res://HongMeiling/CharacterSelect.gd")
+	modLoader.installScriptExtension("res://HakureiReimu/CharacterSelect.gd")
